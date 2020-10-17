@@ -1,0 +1,37 @@
+h1 {
+
+    text-align: center;
+    
+}
+
+body {
+    background-color:hsl(199, 19%, 71%);
+    font-family: sans-serif;
+}
+
+h2 {
+    background-color:hsl(198, 42%, 36%);
+}
+
+fons-BSDO{
+    font-style: oblique;
+}
+
+pre{
+
+    background-color: white;
+    font-weight: bold;
+    
+}
+
+h3{
+
+    color: white;
+    background-color: rgb(80, 199, 199);
+}
+
+address{
+
+    text-align: right;
+    font-family: serif;
+}
